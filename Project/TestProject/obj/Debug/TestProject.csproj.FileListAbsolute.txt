@@ -1,0 +1,11 @@
+C:\Users\mounish\Desktop\prob\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\mounish\Desktop\prob\TestProject\bin\Debug\TestProject.exe
+C:\Users\mounish\Desktop\prob\TestProject\bin\Debug\TestProject.pdb
+C:\Users\mounish\Desktop\prob\TestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mounish\Desktop\prob\TestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mounish\Desktop\prob\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\mounish\Desktop\prob\TestProject\obj\Debug\TestProject.exe
+C:\Users\mounish\Desktop\prob\TestProject\obj\Debug\TestProject.pdb
+C:\Users\mounish\Desktop\Project\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\mounish\Desktop\Project\TestProject\obj\Debug\TestProject.exe
+C:\Users\mounish\Desktop\Project\TestProject\obj\Debug\TestProject.pdb

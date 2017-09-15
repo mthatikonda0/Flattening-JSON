@@ -1,0 +1,10 @@
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\JsonFlattenerTests.dll
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\JsonFlattenerTests.pdb
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\TestProject.exe
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\TestProject.pdb
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\obj\Debug\JsonFlattenerTests.csprojResolveAssemblyReference.cache
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\obj\Debug\JsonFlattenerTests.dll
+C:\Users\mounish\Desktop\prob\JsonFlattenerTests\obj\Debug\JsonFlattenerTests.pdb

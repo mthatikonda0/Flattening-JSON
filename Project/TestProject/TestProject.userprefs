@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9926303F-1B17-4CA1-887F-B7B83BC62A3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonMapper.cs">
+    <Files>
+      <File FileName="Program.cs" Line="44" Column="32" />
+      <File FileName="JsonMapper.cs" Line="12" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pavan/Desktop/TestProject/Program.cs" relfile="Program.cs" line="106" column="52" />
+      <Breakpoint file="/Users/pavan/Desktop/TestProject/Program.cs" relfile="Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/pavan/Desktop/TestProject/Program.cs" relfile="Program.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

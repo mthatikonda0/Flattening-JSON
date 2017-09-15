@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject.csproj", "{9926303F-1B17-4CA1-887F-B7B83BC62A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonFlattenerTests", "..\JsonFlattenerTests\JsonFlattenerTests.csproj", "{4C503E73-7040-4F25-98A6-91E09AB0CE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9926303F-1B17-4CA1-887F-B7B83BC62A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9926303F-1B17-4CA1-887F-B7B83BC62A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9926303F-1B17-4CA1-887F-B7B83BC62A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9926303F-1B17-4CA1-887F-B7B83BC62A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C503E73-7040-4F25-98A6-91E09AB0CE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C503E73-7040-4F25-98A6-91E09AB0CE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C503E73-7040-4F25-98A6-91E09AB0CE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C503E73-7040-4F25-98A6-91E09AB0CE11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

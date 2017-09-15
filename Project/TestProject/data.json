@@ -1,0 +1,49 @@
+{
+  "id": 22,
+  "name": "Jon Keam",
+  "groups": [
+    {
+      "id": 4,
+      "name": "StartBucks Coffee",
+      "subgroups": [
+        {
+          "id": 5,
+          "name": "Baristas Group",
+          "subgroups": []
+        },
+        {
+          "id": 6,
+          "name": "StartBucks Managers Group",
+          "subgroups": [
+            {
+              "id": 8,
+              "name": "StartBucks Dayshift Managers Group",
+              "subgroups": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Cayenne Restaurant",
+      "subgroups": [
+        {
+          "id": 15,
+          "name": "Cayenne Bartenders Group",
+          "subgroups": []
+        },
+        {
+          "id": 16,
+          "name": "Cayenne Waiters Group",
+          "subgroups": []
+        },
+        {
+          "id": 17,
+          "name": "Cayenne Hosts Group",
+          "subgroups": []
+        }
+      ]
+    }
+  ]
+}

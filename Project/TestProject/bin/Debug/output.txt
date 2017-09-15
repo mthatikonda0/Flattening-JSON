@@ -1,0 +1,85 @@
+[
+  {
+    "id": 10,
+    "name": "income",
+    "subgroups": [
+      {
+        "id": 20,
+        "name": "job",
+        "subgroups": [
+          {
+            "id": 30,
+            "name": "bartender",
+            "subgroups": []
+          },
+          {
+            "id": 31,
+            "name": "driver",
+            "subgroups": []
+          },
+          {
+            "id": 32,
+            "name": "teacher",
+            "subgroups": []
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Savings account",
+        "subgroups": []
+      },
+      {
+        "id": 22,
+        "name": "gambling",
+        "subgroups": []
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "job",
+    "subgroups": [
+      {
+        "id": 30,
+        "name": "bartender",
+        "subgroups": []
+      },
+      {
+        "id": 31,
+        "name": "driver",
+        "subgroups": []
+      },
+      {
+        "id": 32,
+        "name": "teacher",
+        "subgroups": []
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "bartender",
+    "subgroups": []
+  },
+  {
+    "id": 31,
+    "name": "driver",
+    "subgroups": []
+  },
+  {
+    "id": 32,
+    "name": "teacher",
+    "subgroups": []
+  },
+  {
+    "id": 21,
+    "name": "Savings account",
+    "subgroups": []
+  },
+  {
+    "id": 22,
+    "name": "gambling",
+    "subgroups": []
+  }
+]
